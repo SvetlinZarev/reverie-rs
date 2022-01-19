@@ -1,0 +1,10 @@
+[package]
+name = "reverie-rs"
+version = "0.0.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "RESERVED name for my WIP project"
+repository = "https://github.com/SvetlinZarev/reverie-rs"
+readme = "README.md"
+
+[dependencies]
